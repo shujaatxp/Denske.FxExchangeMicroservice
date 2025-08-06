@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FxExchange\Denske.FxExchange.csproj" />
+    <ProjectReference Include="..\FxExchange\Dk.FxExchange.csproj" />
   </ItemGroup>
 
 </Project>
