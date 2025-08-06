@@ -56,8 +56,6 @@ Run the tests using the .NET CLI:
 
 ## Author
 
-Created by Syed Shujaat Ali.
-
 ---
 
 *This project targets .NET 9 and is intended for educational and demonstration purposes.*
